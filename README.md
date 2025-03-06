@@ -13,7 +13,7 @@
 mysql> describe myself;
 ```
 
-<img align="left" src="https://github.com/user-attachments/assets/11cc306f-1ebc-479f-b2a3-ef15bfd48fcc" width="120px">
+<img align="left" src="https://github.com/user-attachments/assets/6fccae10-698c-4e07-902c-ca13b087ec46" width="120px">
 
 ```csharp
 6unoyunr | Currently Working @ SBS
