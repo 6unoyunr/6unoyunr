@@ -15,8 +15,8 @@ mysql> describe myself;
 
 <img align="left" src="https://github.com/user-attachments/assets/6fccae10-698c-4e07-902c-ca13b087ec46" width="120px">
 
-```csharp
-6unoyunr | Currently Working @ SBS
+```markdown
+@6unoyunr | Currently Working @ SBS
 --------------------------------
 Name: Junyoung
 Loving 💟 : DL/ML Research/Engineering 🚀, Mac 🖥️, Front/BackEnd ⌨, Managing Projects 📃
