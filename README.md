@@ -22,7 +22,7 @@ mysql> describe myself;
 --------------------------------
 Name: Junyoung
 Loving 💟 : DL/ML Research/Engineering 🚀, Mac 🖥️, Front/BackEnd ⌨, Managing Projects 📃
-Hobbies 🙌 : Coding ⌨️, Traveling 🛫, Community 🌏
+Hobbies 🙌 : Tennis 🎾, Jazz Piano 🎹, Coding ⌨️, Traveling 🛫
 Languages 🗣: C, Python, ruby, Java, Javascript, CSS, Matlab, html, Latex, Pytorch
 ```
 
