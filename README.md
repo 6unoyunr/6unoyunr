@@ -11,7 +11,7 @@ I’m an AI researcher at SBS, where I focus on leveraging large foundation mode
 <h2 align="left">🪪 Profile</h2>
 
 ```bash
-mysql> describe myself;
+> describe myself;
 ```
 
 <img align="left" src="https://github.com/user-attachments/assets/6fccae10-698c-4e07-902c-ca13b087ec46" width="120px">
