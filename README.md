@@ -3,8 +3,7 @@
 
 <h4>Junyoung</h4>
 <h6>AI Researcher | SBS (Seoul Broadcasting System), South Korea</h6>
-<h5>
-I’m an AI researcher at SBS, ... </h5>
+<h5> Nothing special yet.. </h5>
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:C6538C,100:A371F7&height=200&section=header&text=%20&fontSize=60&fontColor=d6ace6)   
 
