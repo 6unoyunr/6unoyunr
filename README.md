@@ -28,8 +28,3 @@ Languages 🗣: C, Python, ruby, Java, Javascript, CSS, Matlab, html, Latex, Pyt
 
 <br>
 <div>
-<h2 align="left">👀 Count Visitor </h2>
-<div align="center">
-<img src="https://moe-counter.glitch.me/get/@6unoyunr?theme=capoo-2&darkmode=0" />
-  </div>
-<br>
