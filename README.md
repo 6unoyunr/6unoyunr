@@ -4,8 +4,6 @@
 <h4>Junyoung</h4>
 <h6>AI Researcher | SBS (Seoul Broadcasting System), South Korea</h6>
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:C6538C,100:A371F7&height=200&section=header&text=%20&fontSize=60&fontColor=d6ace6)   
-
 <h2 align="left">🪪 Profile</h2>
 
 ```bash
