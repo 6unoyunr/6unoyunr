@@ -4,6 +4,10 @@
 <h4>Junyoung</h4>
 <h6>AI Researcher | SBS (Seoul Broadcasting System), South Korea</h6>
 
+<p align="center">
+  <img src="https://gitfut.com/6unoyunr.png", width="200">
+</p>
+
 <h2 align="left">🪪 Profile</h2>
 
 ```bash
