@@ -10,8 +10,6 @@
 > Let me introduce myself;
 ```
 
-<img align="left" src="https://gitfut.com/6unoyunr.png" width="120px">
-
 ```markdown
 @6unoyunr | Currently Working @ SBS
 --------------------------------
